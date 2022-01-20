@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">FoodNinja</string>
     <string name="btn_next">Next</string>
+    <string name="btn_view_more">View More</string>
     <string name="label_bottom_bar_home">Home</string>
     <string name="label_bottom_bar_profile">Profile</string>
     <string name="label_bottom_bar_cart">Cart</string>
@@ -12,5 +13,7 @@
 
 
     <string name="hint_search">What do you want to order?</string>
+
+
 
 </resources>

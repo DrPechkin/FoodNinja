@@ -28,6 +28,7 @@ val SecondaryTextColorDark = Color(0xffffffff)
 val PrimaryTextColorLight = Color(0xFF09051C)
 val SecondaryTextColorLight = Color(0xFF000000)
 
+val AccentTextColor = Color(0xFFFF7C32)
 
 val ScreenBackground = Color(0xFFFEFEFF)
 
