@@ -29,8 +29,16 @@
         <entry key="../../../../layout/compose-model-1642494098242.xml" value="0.25779820290270833" />
         <entry key="../../../../layout/compose-model-1642494554417.xml" value="0.30743243243243246" />
         <entry key="../../../../layout/compose-model-1642495904030.xml" value="0.30743243243243246" />
+        <entry key="../../../../layout/compose-model-1642504776439.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1642506888440.xml" value="0.43148148148148147" />
+        <entry key="../../../../layout/compose-model-1642506910750.xml" value="0.43148148148148147" />
+        <entry key="../../../../layout/compose-model-1642586247421.xml" value="0.45" />
+        <entry key="../../../../layout/compose-model-1642609075260.xml" value="0.30743243243243246" />
+        <entry key="../../../../layout/compose-model-1642656323942.xml" value="0.30743243243243246" />
         <entry key="app/src/main/res/drawable-night/bg_landing_gradient_dark2.xml" value="0.42604166666666665" />
         <entry key="app/src/main/res/drawable-night/ic_app_name.xml" value="0.42604166666666665" />
+        <entry key="app/src/main/res/drawable-xhdpi/ic_notifiaction_active.xml" value="0.36875" />
+        <entry key="app/src/main/res/drawable/bg_home.xml" value="0.36875" />
         <entry key="app/src/main/res/drawable/bg_landing.xml" value="0.33055555555555555" />
         <entry key="app/src/main/res/drawable/bg_landing_gradient.xml" value="0.42604166666666665" />
         <entry key="app/src/main/res/drawable/bg_landing_gradient_dark.xml" value="0.42604166666666665" />
@@ -40,8 +48,10 @@
         <entry key="app/src/main/res/drawable/ic_bottom_home_active.xml" value="0.36875" />
         <entry key="app/src/main/res/drawable/ic_bottom_profile_active.xml" value="0.4338461538461538" />
         <entry key="app/src/main/res/drawable/ic_crane_drawer.xml" value="0.42604166666666665" />
+        <entry key="app/src/main/res/drawable/ic_filter.xml" value="0.36875" />
         <entry key="app/src/main/res/drawable/ic_gradient__1_.xml" value="0.42604166666666665" />
         <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.42604166666666665" />
+        <entry key="app/src/main/res/drawable/ic_notifiaction.xml" value="0.36875" />
       </map>
     </option>
   </component>

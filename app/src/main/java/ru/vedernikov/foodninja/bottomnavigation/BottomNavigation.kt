@@ -17,7 +17,6 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.NavDestination.Companion.hierarchy
 import androidx.navigation.compose.currentBackStackEntryAsState
-import ru.vedernikov.foodninja.BottomNavItem
 import ru.vedernikov.foodninja.extensions.coloredShadow
 import ru.vedernikov.foodninja.ui.theme.FoodNinjaTheme
 import ru.vedernikov.foodninja.ui.theme.PrimaryShadowColor

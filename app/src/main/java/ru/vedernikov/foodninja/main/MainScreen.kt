@@ -12,7 +12,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import ru.vedernikov.foodninja.BottomNavItem
+import ru.vedernikov.foodninja.bottomnavigation.BottomNavItem
 import ru.vedernikov.foodninja.bottomnavigation.BottomNavigation
 import ru.vedernikov.foodninja.cart.CartScreen
 import ru.vedernikov.foodninja.chat.ChatScreen

@@ -1,7 +1,8 @@
-package ru.vedernikov.foodninja
+package ru.vedernikov.foodninja.bottomnavigation
 
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
+import ru.vedernikov.foodninja.R
 
 sealed class BottomNavItem(
     @StringRes
